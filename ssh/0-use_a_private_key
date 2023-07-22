@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# Omae wa mou shindeiru
 ssh -i ~/.ssh/school ubuntu@3.94.193.31
